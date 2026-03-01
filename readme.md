@@ -37,7 +37,7 @@ The system implements:
 
 ## Project Architecture
 
-```
+
 Raw Dataset
     |
 Data Cleaning & Processing
@@ -51,13 +51,13 @@ Cosine Similarity Scoring
 Prediction & Evaluation
      |
 Streamlit Web Application
-```
 
----
+
+
 
 ##  Project Structure
 
-```
+
 resume-job-description-fit/
 │
 ├── app/
@@ -83,9 +83,9 @@ resume-job-description-fit/
 ├── evaluate.py             
 ├── requirements.txt
 └── README.md
-```
 
----
+
+
 
 ##  Models Used
 
@@ -122,14 +122,7 @@ Evaluation metrics include:
 
 Example output:
 
-```
-Accuracy: XX%
-Precision: XX
-Recall: XX
-F1-score: XX
-```
 
----
 
 ##  Web Application (Streamlit)
 
@@ -142,42 +135,12 @@ The project includes an interactive web interface where users can:
 
 ### Run the Web App
 
-```bash
+ 
 streamlit run app/app.py
-```
+ 
+ 
 
----
-
-## How to Run Locally
-
-###  Clone Repository
-
-```bash
-git clone <your-repo-link>
-cd resume-job-description-fit
-```
-
-###  Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-###  Train Models (Optional)
-
-```bash
-python train.py
-```
-
-###  Launch Web App
-
-```bash
-streamlit run app/app.py
-```
-
----
-
-##  Dataset
+ ## Dataset
 
 Dataset sourced from HuggingFace:
 
@@ -189,7 +152,7 @@ Contains labeled pairs of:
 * Job description text
 * Fit category labels
 
----
+
 
 ## Technical Skills Demonstrated
 
@@ -202,7 +165,7 @@ Contains labeled pairs of:
 * Streamlit Deployment
 * End-to-End ML Pipeline Design
 
----
+
 
 ## Future Improvements
 
@@ -212,7 +175,7 @@ Contains labeled pairs of:
 * Cloud deployment (AWS / HuggingFace Spaces)
 * Recruiter dashboard analytics
 
----
+
 
 ##  Author
 
@@ -227,3 +190,4 @@ AI / NLP Enthusiast | Aspiring GenAI Engineer
 This project demonstrates how modern NLP and transformer models can automate real-world recruitment workflows, reducing manual effort and improving candidate-job matching efficiency.
 
 ---
+
