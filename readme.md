@@ -52,41 +52,6 @@ Prediction & Evaluation
      |
 Streamlit Web Application
 
-
-
-
-##  Project Structure
-
----
-resume-job-description-fit/
-│
-├── app/
-│   ├── app.py              
-│   └── utils.py            
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── models/
-│   ├── tfidf_vectorizer.pkl
-│   ├── tfidf_logreg_model.pkl
-│   └── sentence_bert/
-│
-├── outputs/
-│   ├── figures/
-│   ├── metrics/
-│   └── predictions/
-│
-├── train.py                
-├── predict.py              
-├── evaluate.py             
-├── requirements.txt
-└── README.md
-
-
----
-
 ##  Models Used
 
 ###  Baseline Model
@@ -190,5 +155,6 @@ AI / NLP Enthusiast | Aspiring GenAI Engineer
 This project demonstrates how modern NLP and transformer models can automate real-world recruitment workflows, reducing manual effort and improving candidate-job matching efficiency.
 
 ---
+
 
 
