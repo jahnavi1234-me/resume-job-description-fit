@@ -155,5 +155,9 @@ AI / NLP Enthusiast | Aspiring GenAI Engineer
 This project demonstrates how modern NLP and transformer models can automate real-world recruitment workflows, reducing manual effort and improving candidate-job matching efficiency.
 
 ---
+<img width="1920" height="1080" alt="good fit" src="https://github.com/user-attachments/assets/319441e4-eac6-42d4-bd73-32d6bea1c647" />
  
+<img width="1920" height="1080" alt="no fit" src="https://github.com/user-attachments/assets/bb98fbe8-ec62-43a6-9c32-3996cc0c7f45" />
+
+<img width="1920" height="1080" alt="potential fit" src="https://github.com/user-attachments/assets/c7f2d4bb-2b34-4b13-8498-7bd181194278" />
 
