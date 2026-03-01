@@ -57,7 +57,7 @@ Streamlit Web Application
 
 ##  Project Structure
 
-
+---
 resume-job-description-fit/
 │
 ├── app/
@@ -85,7 +85,7 @@ resume-job-description-fit/
 └── README.md
 
 
-
+---
 
 ##  Models Used
 
@@ -190,4 +190,5 @@ AI / NLP Enthusiast | Aspiring GenAI Engineer
 This project demonstrates how modern NLP and transformer models can automate real-world recruitment workflows, reducing manual effort and improving candidate-job matching efficiency.
 
 ---
+
 
