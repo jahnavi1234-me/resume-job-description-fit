@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+
+# Model files
+models/sentence_bert/
+*.pkl
+
+# Outputs
+outputs/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
