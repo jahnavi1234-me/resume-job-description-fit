@@ -1,14 +1,7 @@
 import os
 from sentence_transformers import SentenceTransformer, util
-
-# Get the base directory (one level above the current file)
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-# Path to your model folder inside your repo
-MODEL_PATH = os.path.join(BASE_DIR, "models", "sentence_bert")
-
-# Load the model
-model = SentenceTransformer(MODEL_PATH)
+# Load model directly from HuggingFace Hub
+model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 def predict_fit(resume_text, job_description):
 
     emb1 = model.encode([resume_text], convert_to_tensor=True)
