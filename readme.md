@@ -134,9 +134,10 @@ Job Description:
 
 Output:
 
-- Similarity Score: "0.82"
+- Similarity Score: "0.792"
 - Prediction:  Good Fit
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/281d68c6-eba4-489c-b757-d7b58cc45ec3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70d8ca42-eaee-44b3-9b25-66d9012fc732" />
 
 ---
 
