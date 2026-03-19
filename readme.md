@@ -136,9 +136,7 @@ Output:
 
 - Similarity Score: "0.82"
 - Prediction:  Good Fit
-<img width="1920" height="1080" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/57c23daf-74b2-4980-9412-199b934eedfb" />
-<img width="1920" height="1080" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/2b182c1d-d44d-4a84-a88e-330ba4481acb" />
-<img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/8b8ede67-0105-4011-8111-6976cc174040" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/281d68c6-eba4-489c-b757-d7b58cc45ec3" />
 
 ---
 
